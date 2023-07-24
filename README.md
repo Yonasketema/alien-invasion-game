@@ -17,7 +17,7 @@ Alien Invasion from "Python Crash Course " by Eric Matthes.
    ```sh
    pipenv install
    ```
-5. start client
+5. run game
    ```sh
     python3 alien_invasion.py
    ```
